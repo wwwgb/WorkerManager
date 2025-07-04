@@ -1,0 +1,26 @@
+[
+{
+  "directory": "D:/gbw_practice/practice/build",
+  "command": "D:\\MinGW\\bin\\g++.exe  @CMakeFiles/worker_manager.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\worker_manager.dir\\src\\boss.cpp.obj -c D:\\gbw_practice\\practice\\worker_Manager\\src\\boss.cpp",
+  "file": "D:/gbw_practice/practice/worker_Manager/src/boss.cpp",
+  "output": "CMakeFiles/worker_manager.dir/src/boss.cpp.obj"
+},
+{
+  "directory": "D:/gbw_practice/practice/build",
+  "command": "D:\\MinGW\\bin\\g++.exe  @CMakeFiles/worker_manager.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\worker_manager.dir\\src\\employee.cpp.obj -c D:\\gbw_practice\\practice\\worker_Manager\\src\\employee.cpp",
+  "file": "D:/gbw_practice/practice/worker_Manager/src/employee.cpp",
+  "output": "CMakeFiles/worker_manager.dir/src/employee.cpp.obj"
+},
+{
+  "directory": "D:/gbw_practice/practice/build",
+  "command": "D:\\MinGW\\bin\\g++.exe  @CMakeFiles/worker_manager.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\worker_manager.dir\\src\\manager.cpp.obj -c D:\\gbw_practice\\practice\\worker_Manager\\src\\manager.cpp",
+  "file": "D:/gbw_practice/practice/worker_Manager/src/manager.cpp",
+  "output": "CMakeFiles/worker_manager.dir/src/manager.cpp.obj"
+},
+{
+  "directory": "D:/gbw_practice/practice/build",
+  "command": "D:\\MinGW\\bin\\g++.exe  @CMakeFiles/worker_manager.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\worker_manager.dir\\src\\workerManager.cpp.obj -c D:\\gbw_practice\\practice\\worker_Manager\\src\\workerManager.cpp",
+  "file": "D:/gbw_practice/practice/worker_Manager/src/workerManager.cpp",
+  "output": "CMakeFiles/worker_manager.dir/src/workerManager.cpp.obj"
+}
+]
